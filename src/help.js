@@ -2,11 +2,9 @@ const //database
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
+╠➥ S4turnBot🎩
 ╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
-╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
+╠➥ status: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
 ║
@@ -173,18 +171,7 @@ const //database
 ║132 *${prefix}pokemon*
 ║
 ║
-╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
-║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
-║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
-║
-║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘S4turnBot🎩〙`
 }
 
 //Online.database
